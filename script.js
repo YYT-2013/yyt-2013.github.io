@@ -83,7 +83,7 @@ class Zombie {
 }
 
 // 定义伤害对象
-clss DamageNumber {
+class DamageNumber {
     constructor(x, y, damage, isDefense) {
         this.x = x;
         this.y = y;
